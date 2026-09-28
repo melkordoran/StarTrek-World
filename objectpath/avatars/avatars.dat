@@ -1,0 +1,29 @@
+version 3
+
+avatar
+ name=Command Officer
+ geometry=st_crew_burgundy.rwx
+ beginimp
+ endimp
+ beginexp
+ endexp
+endavatar
+
+avatar
+ name=Operations Officer
+ geometry=st_crew_gold.rwx
+ beginimp
+ endimp
+ beginexp
+ endexp
+endavatar
+
+avatar
+ name=Science Officer
+ geometry=st_crew_science.rwx
+ beginimp
+ endimp
+ beginexp
+ endexp
+endavatar
+

@@ -1,0 +1,19 @@
+# Original StarTrek fan-world geometry; RWX units are 10 metres.
+ModelBegin
+ClumpBegin
+Collision Off
+ClumpBegin
+Collision Off
+Surface 0.45 0.7 0
+LightSampling Facet
+GeometrySampling Solid
+Color 0 0 0
+Opacity 0
+Collision Off
+Vertex 0.000000 -100.000000 0.000000 UV 0.00000 0.00000
+Vertex 0.010000 -100.000000 0.000000 UV 0.01250 0.00000
+Vertex 0.000000 -100.000000 0.010000 UV 0.00000 0.01250
+Triangle 1 2 3
+ClumpEnd
+ClumpEnd
+ModelEnd

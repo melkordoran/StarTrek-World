@@ -1,0 +1,2 @@
+# ImageFont.load_default(size=...) uses Pillow's bundled portable font.
+Pillow>=10.1
